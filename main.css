@@ -1,0 +1,32 @@
+p{color:red}
+h1{color:cyan;
+font-size: 50px;
+font-family: 'Georgia',serif}
+h2{color:gray;
+font-size: 30px}
+ul{color:purple;}
+#aaron {color:blue;
+font-style: italic;
+font-family: "Arial"}
+img{width: 50%;
+margin-left: 15%;}
+#rambo {width: 30%;
+	margin-left: 20%;}
+#rob {width:20%;
+margin-left: 20%}
+#ryan {width: 20%;
+margin-left: 20%}
+#ironman {color: maroon;
+font-size: 30px;
+font-family:"Papyrus";}
+#lala {color: lightblue;
+font-size: 35px;
+font-family: "Calibri"}
+div{color: magenta;
+font-size: 70px;
+font-family: "Informal Roman"}
+#cam{color:cyan;
+font-size: 80px;
+font-family: "Stencil"}
+#cammy{width:30%;
+margin-left: 20%}
